@@ -1,0 +1,1 @@
+# pwsh-zabbix-uuid
